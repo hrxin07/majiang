@@ -1,0 +1,13 @@
+{
+  "name": "sichuan-mahjong-private-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "四川麻将：换三张、私人房间与自动计分的本地联机示例",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
